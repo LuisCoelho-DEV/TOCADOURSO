@@ -1,0 +1,6 @@
+   Estrutura de Pastas
+
+ img - imagens
+ css - css
+ js - javascript	
+ arquivos.html 
